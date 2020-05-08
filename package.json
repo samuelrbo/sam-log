@@ -1,0 +1,31 @@
+{
+  "name": "@sam/log",
+  "version": "0.0.1",
+  "description": "Library for colorized log",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelrbo/sam-log.git"
+  },
+  "keywords": [
+    "log",
+    "node",
+    "color"
+  ],
+  "author": "Samuel Ramon <samuelrbo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samuelrbo/sam-log/issues"
+  },
+  "homepage": "https://github.com/samuelrbo/sam-log#readme",
+  "dependencies": {
+    "moment": "^2.25.3",
+    "node-json-color-stringify": "^1.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
