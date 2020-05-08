@@ -1,5 +1,5 @@
 {
-  "name": "@sam/log",
+  "name": "@samuelrbo/log",
   "version": "0.0.1",
   "description": "Library for colorized log",
   "main": "index.js",
